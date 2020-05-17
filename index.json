@@ -1,0 +1,25 @@
+{
+"zipUrl" : "https://github.com/adammistal/MyFiles/blob/master/index_1.zip?raw=true",
+"entries":[
+  {
+    "id" : 1,
+    "file" : "A.jpg",
+    "name" : "A"
+  },
+  {
+     "id" : 2,
+    "file" : "B.jpg",
+    "name" : "B"
+  },
+  {
+     "id" : 3,
+    "file" : "C.jpg",
+    "name" : "C"
+  },
+  {
+     "id" : 4,
+    "file" : "D.jpg",
+    "name" : "D"
+  }
+]
+}
